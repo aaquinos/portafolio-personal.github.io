@@ -1,0 +1,9 @@
+.sobre{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5rem;
+    padding-left: 10rem;
+    padding-right: 10rem;
+    padding-bottom: 5rem;
+    background-color: #EAF2FD;
+}

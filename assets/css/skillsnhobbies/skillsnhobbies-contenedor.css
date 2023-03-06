@@ -1,0 +1,10 @@
+.skillsnhobbies__contenedor{
+    width: calc(16% - 5rem);
+    padding-right: 5rem;
+    padding-bottom: 5rem;
+    height: 100%;
+    perspective: 1000px;
+}
+.skillsnhobbies__contenedor:hover .skillnhobby__card{
+    transform: rotateY(180deg);
+}

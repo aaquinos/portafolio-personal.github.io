@@ -1,0 +1,9 @@
+.sobre__contenedor{
+    font-family: Anton;
+    font-weight: 100;
+}
+
+.imagen__sobre{
+    display: flex;
+    justify-content: center;
+}

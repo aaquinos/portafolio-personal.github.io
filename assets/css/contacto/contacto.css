@@ -1,0 +1,9 @@
+.contacto{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 5rem;
+    background-color: #EAF2FD;
+    align-items: center;
+    justify-content: center;
+}

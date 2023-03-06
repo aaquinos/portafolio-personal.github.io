@@ -1,0 +1,6 @@
+.experiencia__detalle{
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    align-items: start;
+}

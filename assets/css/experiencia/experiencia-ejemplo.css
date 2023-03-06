@@ -1,0 +1,7 @@
+.experiencia__ejemplo{
+    display: flex;
+    width: 70%;
+    height: 500px;
+    align-items: center;
+    justify-content: center;
+}

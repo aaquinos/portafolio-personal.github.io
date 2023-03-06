@@ -1,0 +1,14 @@
+.banner__menu--link{
+    margin-right: 3rem;
+    text-decoration: none;
+    color: #fdfdfd;
+    font-size: 1.5rem;
+    font-family: Anton;
+    font-weight: 100;
+    
+}
+
+.banner__menu--link:hover{
+    text-decoration: underline;
+    text-shadow: 0 2px #333C87;
+}

@@ -1,0 +1,11 @@
+.contacto__mensaje{
+    width: 41rem;
+    height: 8.3125rem;
+    margin-bottom: 2rem;
+    padding: 1rem;
+    text-align: justify;
+}
+
+.contacto__mensaje::placeholder{
+    color: #A2A2A2;
+}

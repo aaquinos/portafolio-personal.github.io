@@ -1,0 +1,8 @@
+.skillnhobby__card{
+    position: relative;
+    width: 100%;
+    text-align: center;
+    transition: transform 1s;
+    transform-style: preserve-3d;
+    padding: 3rem 0 5rem 0;
+}
