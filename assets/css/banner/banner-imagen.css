@@ -1,6 +1,6 @@
 .banner__imagen{
     height: calc(80vh - 72px);
-    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(/assets/img/banner_diseño_web.png) no-repeat center;
+    background: linear-gradient(rgba(0, 0, 0, 0.5),rgba(0, 0, 0, 0.5)), url(/assets/img/banner_diseno_web.png) no-repeat center;
     /*background-size: cover;*/
     width: 100%;
     display: flex;
