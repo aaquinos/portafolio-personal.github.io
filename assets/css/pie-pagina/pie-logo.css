@@ -1,0 +1,6 @@
+.pie__logo{
+    display: flex;
+    width: 200px;
+    justify-content: center;
+    align-items: center;
+}

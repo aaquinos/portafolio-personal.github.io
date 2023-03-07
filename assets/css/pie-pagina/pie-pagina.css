@@ -1,0 +1,9 @@
+.pie-pagina{
+    background-image: url(/assets/img/bacground-footer.png);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-direction: column;
+}
